@@ -1,4 +1,4 @@
-# Jogo 2d sendo criado entre amigos.
+# Farmer VS Aliens
 
 <img src="https://i.ibb.co/vXQYsfn/pp.jpg" alt="pp" border="0">
 

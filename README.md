@@ -1,4 +1,4 @@
-# [F][A][R][M][E][R] <i>VS</i> [A][L][I][E][N][S]
+# <font color='red'>FARMER VS ALIENS</font>
 
 <img src="https://i.ibb.co/vXQYsfn/pp.jpg" alt="pp" border="0">
 

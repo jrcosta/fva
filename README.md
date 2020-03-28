@@ -1,4 +1,4 @@
-# Jogo 2d sendo criado entre amigos.
+# [F][A][R][M][E][R] <i>VS</i> [A][L][I][E][N][S]
 
 <img src="https://i.ibb.co/vXQYsfn/pp.jpg" alt="pp" border="0">
 

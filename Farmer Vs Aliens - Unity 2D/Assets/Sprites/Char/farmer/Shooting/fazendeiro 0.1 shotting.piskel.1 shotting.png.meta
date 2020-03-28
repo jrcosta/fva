@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 7e2bd275721df4c4b84ea6e91809094d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 378267813314460602
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_0
+  - first:
+      213: -78885055374342251
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_1
+  - first:
+      213: 6536137240660727466
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_2
+  - first:
+      213: 4657287895499692439
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_3
+  - first:
+      213: 7245433945357734260
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_4
+  - first:
+      213: -4478646622555752531
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_5
+  - first:
+      213: 8992635124536532588
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_6
+  - first:
+      213: 2568189525865573618
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_7
+  - first:
+      213: -5634472560303461528
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_8
+  - first:
+      213: 3578947072912931911
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_9
+  - first:
+      213: -7305808503144454821
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_10
+  - first:
+      213: -5672366551824693979
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_11
+  - first:
+      213: 4494301299169411976
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_12
+  - first:
+      213: -1569558408274051687
+    second: fazendeiro 0.1 shotting.piskel.1 shotting_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1300
+        width: 460
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb72927290ef3500800000000000000
+      internalID: 378267813314460602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1300
+        width: 580
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974358c57eb7eef0800000000000000
+      internalID: -78885055374342251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_2
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1300
+        width: 560
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6d8c0c03605ba50800000000000000
+      internalID: 6536137240660727466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 660
+        width: 360
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7995cf36aa202a040800000000000000
+      internalID: 4657287895499692439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 780
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471da9c09c3fc8460800000000000000
+      internalID: 7245433945357734260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 660
+        width: 360
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7bf0c20a6a8d1c0800000000000000
+      internalID: -4478646622555752531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 840
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e53b030024ccc70800000000000000
+      internalID: 8992635124536532588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_7
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 660
+        width: 360
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca81554ca04a320800000000000000
+      internalID: 2568189525865573618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 860
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2d622f055ec1b0800000000000000
+      internalID: -5634472560303461528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 480
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c36e69669faa130800000000000000
+      internalID: 3578947072912931911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 20
+        width: 460
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55eb0dcfdd8c9a90800000000000000
+      internalID: -7305808503144454821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_11
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 20
+        width: 460
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5258ea2bca4b741b0800000000000000
+      internalID: -5672366551824693979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_12
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883c1924837fe5e30800000000000000
+      internalID: 4494301299169411976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fazendeiro 0.1 shotting.piskel.1 shotting_13
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 300
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99df89c81fec73ae0800000000000000
+      internalID: -1569558408274051687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - hitBox
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Backgroud
+    uniqueID: 232490429
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PrimeiroPlano
+    uniqueID: 3667730785
     locked: 0

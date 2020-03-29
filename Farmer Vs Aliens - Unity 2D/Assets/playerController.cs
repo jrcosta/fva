@@ -48,8 +48,8 @@ public class playerController : MonoBehaviour {
         
         if(Input.GetButtonDown("Jump") && isGrounded == true){
 
+            isGrounded = false;
             playerRb.AddForce(new Vector2(0,jumpForce));
-
         }
         
         if(Input.GetButtonDown("Fire1") && isAtack == false){

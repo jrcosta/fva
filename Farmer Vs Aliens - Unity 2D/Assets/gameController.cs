@@ -3,10 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class gameController : MonoBehaviour {
+
     public float speedCam;
     private Camera cam;
     public Transform playerTransform;
     public Transform limitCamLeft,limitCamRight,limitCamUp,limitCamDown;
+
+    [Header ("Audio")]
+    public AudioSource sfxSource;
+    public AudioSource musicSource;
+    public AudioClip sfxJump;
+    public AudioClip sfxAtack;
+    public AudioClip[] sfxStep;
+    public AudioClip sfxCoin;
 
     void Start() {
         
@@ -53,4 +62,11 @@ public class gameController : MonoBehaviour {
         cam.transform.position = Vector3.Lerp(cam.transform.position, posCam, speedCam * Time.deltaTime);
 
     }
+
+    public void playSFX(AudioClip sfxClipe, float volume){
+
+        sfxSource.PlayOneShot(sfxClipe, volume);
+    }
+
+
 }

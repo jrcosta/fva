@@ -636,10 +636,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: a18d944d-6d98-4bde-97cc-0b24636530ef
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: MiniCurso2d
+  organizationId: unity_bbheaflzpj5nla
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

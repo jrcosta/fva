@@ -48,12 +48,14 @@ public class playerController : MonoBehaviour {
         
         if(Input.GetButtonDown("Jump") && isGrounded == true){
 
-            isGrounded = false;
+            _gameController.playSFX(_gameController.sfxJump, 0.5f);
             playerRb.AddForce(new Vector2(0,jumpForce));
         }
         
         if(Input.GetButtonDown("Fire1") && isAtack == false){
 
+
+            _gameController.playSFX(_gameController.sfxAtack, 0.5f);
             isAtack = true;
             playerAnimator.SetTrigger("atack");
 
@@ -72,6 +74,19 @@ public class playerController : MonoBehaviour {
         isGrounded = Physics2D.OverlapCircle(groudCheck.position, 0.02f);
     
     }
+
+    void OnTriggerEnter2D(Collider2D col){
+        
+        if(col.gameObject.tag == "coletaveis"){
+
+            _gameController.playSFX(_gameController.sfxCoin, 0.5f);
+            Destroy(col.gameObject);
+
+        }
+
+
+    }
+        
     void Flip(){
         
         isLookLeft = !isLookLeft;
@@ -92,4 +107,12 @@ public class playerController : MonoBehaviour {
         Destroy(hitBoxTemp, 0.2f);
 
     }
-}
+
+    void footStep(){
+
+     _gameController.playSFX(_gameController.sfxStep[Random.Range(0,_gameController.sfxStep.Length)], 1f);
+        
+    }
+
+    }
+

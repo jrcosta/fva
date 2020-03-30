@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - gameController
+    - parallax
     - playerController
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
@@ -51,6 +52,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -58,9 +63,11 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12130}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12156}
+      Script: {instanceID: 12142}
+    - Class: 114
+      Script: {instanceID: 12168}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -232,6 +239,12 @@ ScriptsOnlyBuild:
     className: Shadow
   - hash:
       serializedVersion: 2
+      Hash: 424167969752cf0956ae61188349144f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: parallax
+  - hash:
+      serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -298,7 +311,7 @@ ScriptsOnlyBuild:
     className: playerController
   - hash:
       serializedVersion: 2
-      Hash: 1f2f0c81e4bdc2f0f8c4e4f4dff8dc5b
+      Hash: c9470da88bd0458f81369e9fff3250a9
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: gameController
